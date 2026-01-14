@@ -18,7 +18,7 @@ AI Project/
 This repository is essentially that `Python API` folder extracted and version-controlled. To run the project end‑to‑end, you still need the original zip from the course (BizHawk, ROM, etc.).[2][1]
 
 **Download the full project zip (emulator + assets)**  
-> Link: `https://drive.google.com/file/d/18SN8e_XqJFEPZ0wcWXQ8GnzuZk58cn-2/view?usp=sharing`
+> Link: `<https://drive.google.com/file/d/18SN8e_XqJFEPZ0wcWXQ8GnzuZk58cn-2/view?usp=sharing>`
 
 After downloading and extracting the zip, copy the contents of this repo into the `Python API` folder inside the original structure, replacing or adding files as needed.[1][2]
 
@@ -54,7 +54,7 @@ python-api/
 1. **Get the full project zip**
 
    - Download and extract the original course zip from:  
-     `<PUT_THE_COURSE_ZIP_LINK_HERE>`  
+     `<https://drive.google.com/file/d/18SN8e_XqJFEPZ0wcWXQ8GnzuZk58cn-2/view?usp=sharing>`  
    - Inside it, locate: `AI Project/Application/Python API/`.[2][1]
 
 2. **Copy this Python API folder**
